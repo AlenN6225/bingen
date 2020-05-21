@@ -1,0 +1,172 @@
+Uri: https://binsmafia.club/
+File Name: C:\Users\akifu\Desktop\binsmafia.club\index.htm
+Content Type: text/html
+
+Uri: https://binsmafia.club/apple-touch-icon.png
+File Name: C:\Users\akifu\Desktop\binsmafia.club\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://binsmafia.club/favicon-32x32.png
+File Name: C:\Users\akifu\Desktop\binsmafia.club\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://binsmafia.club/favicon-16x16.png
+File Name: C:\Users\akifu\Desktop\binsmafia.club\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://binsmafia.club/site.webmanifest
+File Name: C:\Users\akifu\Desktop\binsmafia.club\site.webmanifest
+Content Type: 
+
+Uri: https://binsmafia.club/safari-pinned-tab.svg
+File Name: C:\Users\akifu\Desktop\binsmafia.club\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://binsmafia.club/assets/libs/toastr/build/toastr.min.css
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\libs\toastr\build\toastr.min.css
+Content Type: text/css
+
+Uri: https://binsmafia.club/assets/css/bootstrap-dark.min.css
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\css\bootstrap-dark.min.css
+Content Type: text/css
+
+Uri: https://binsmafia.club/assets/css/icons.min.css
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\css\icons.min.css
+Content Type: text/css
+
+Uri: https://binsmafia.club/assets/css/app-dark.min.css
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\css\app-dark.min.css
+Content Type: text/css
+
+Uri: https://binsmafia.club/spotify
+File Name: C:\Users\akifu\Desktop\binsmafia.club\spotify.html
+Content Type: text/html
+
+Uri: https://binsmafia.club/otp
+File Name: C:\Users\akifu\Desktop\binsmafia.club\otp.html
+Content Type: text/html
+
+Uri: https://binsmafia.club/assets/images/logo-solo.png
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\logo-solo.png
+Content Type: image/png
+
+Uri: https://binsmafia.club/assets/images/logo.png
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://binsmafia.club/assets/images/megamenu-img.png
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\megamenu-img.png
+Content Type: image/png
+
+Uri: https://binsmafia.club/assets/images/flags/us.jpg
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\flags\us.jpg
+Content Type: image/jpeg
+
+Uri: https://binsmafia.club/assets/images/flags/spain.jpg
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\flags\spain.jpg
+Content Type: image/jpeg
+
+Uri: https://binsmafia.club/assets/images/flags/germany.jpg
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\flags\germany.jpg
+Content Type: image/jpeg
+
+Uri: https://binsmafia.club/assets/images/flags/italy.jpg
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\flags\italy.jpg
+Content Type: image/jpeg
+
+Uri: https://binsmafia.club/assets/images/flags/russia.jpg
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\flags\russia.jpg
+Content Type: image/jpeg
+
+Uri: https://binsmafia.club/assets/images/crypto/features-img/img-1.png
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\crypto\features-img\img-1.png
+Content Type: image/png
+
+Uri: https://binsmafia.club/assets/images/product/img-7.png
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\product\img-7.png
+Content Type: image/png
+
+Uri: https://binsmafia.club/assets/images/product/img-4.png
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\images\product\img-4.png
+Content Type: image/png
+
+Uri: https://binsmafia.club/assets/libs/jquery/jquery.min.js
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\libs\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://binsmafia.club/assets/libs/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\libs\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://binsmafia.club/assets/libs/metismenu/metisMenu.min.js
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\libs\metismenu\metisMenu.min.js
+Content Type: application/javascript
+
+Uri: https://binsmafia.club/assets/libs/simplebar/simplebar.min.js
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\libs\simplebar\simplebar.min.js
+Content Type: application/javascript
+
+Uri: https://binsmafia.club/assets/libs/node-waves/waves.min.js
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\libs\node-waves\waves.min.js
+Content Type: application/javascript
+
+Uri: https://binsmafia.club/assets/libs/toastr/build/toastr.min.js
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\libs\toastr\build\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://binsmafia.club/assets/js/pages/toastr.init.js
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\js\pages\toastr.init.js
+Content Type: application/javascript
+
+Uri: https://binsmafia.club/assets/js/app.js
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://binsmafia.club/assets/fonts/materialdesignicons-webfont7e1c.eot?v=5.0.45
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\materialdesignicons-webfont7e1c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://binsmafia.club/assets/fonts/materialdesignicons-webfontd41d.eot?
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\materialdesignicons-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://binsmafia.club/assets/fonts/materialdesignicons-webfont7e1c.html?v=5.0.45
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\materialdesignicons-webfont7e1c.html
+Content Type: text/html
+
+Uri: https://binsmafia.club/assets/fonts/materialdesignicons-webfont7e1c.woff?v=5.0.45
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\materialdesignicons-webfont7e1c.woff
+Content Type: font/woff
+
+Uri: https://binsmafia.club/assets/fonts/materialdesignicons-webfont7e1c.ttf?v=5.0.45
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\materialdesignicons-webfont7e1c.ttf
+Content Type: font/ttf
+
+Uri: https://binsmafia.club/assets/fonts/boxicons.eot
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://binsmafia.club/assets/fonts/boxicons.html
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\boxicons.html
+Content Type: text/html
+
+Uri: https://binsmafia.club/assets/fonts/boxicons.woff
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://binsmafia.club/assets/fonts/boxicons.ttf
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://binsmafia.club/assets/fonts/boxiconsd41d.svg?
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\boxiconsd41d.svg
+Content Type: image/svg+xml
+
+Uri: https://binsmafia.club/assets/fonts/fa-brands-400.eot
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://binsmafia.club/assets/fonts/fa-brands-400d41d.eot?
+File Name: C:\Users\akifu\Desktop\binsmafia.club\assets\fonts\fa-brands-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
